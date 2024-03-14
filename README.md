@@ -108,7 +108,6 @@ Completed: Mar 2017
 - LinkedIn: https://www.linkedin.com/in/suyeshbadge/
 - GitHub: https://github.com/SuyeshBadge
 - Email: suyeshbadge@gmail.com
-- Phone: +91 9726852670
 - Location: Bangalore, Karnataka, India
   
 Feel free to explore my repositories and reach out if you have any questions or opportunities to collaborate!
