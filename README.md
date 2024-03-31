@@ -46,7 +46,7 @@ I'm a highly skilled and innovative Software Engineer with a passion for develop
 
 ## 💼 Work Experience
 
-### Software Engineer, Shiprocket (May 2022 - Present)
+### Software Engineer, Shiprocket (May 2022 - Oct 2023)
 
 - Led backend development for myShiprocket App, boosting order management for top marketplaces.
 - Achieved 30% higher user engagement and 20% more repeat transactions with dynamic loyalty points.
